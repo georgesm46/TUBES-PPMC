@@ -1,0 +1,11 @@
+J1 Vin GND
+C1 Vin Tb
+R1 Vcc Tb
+R2 Tb GND
+R3 Vcc Tc
+C2 Tc Vout
+R4 Te GND
+C3 Te GND
+J2 Vout GND
+J3 Vcc GND
+T1 Tb Tc Te
